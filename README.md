@@ -79,5 +79,5 @@ The bottom of the dashboard features a natural language Q&A section powered by t
 
 ## 8. Links
 
-- **GitHub Repository**: [把你的仓库网址贴在这里]
-- **Live App**: [把你的 Streamlit Cloud 网址贴在这里]
+- **GitHub Repository**: https://github.com/SunYoubei/anime-dashboard
+- **Live App**: https://anime-dashboard-5uo4qy5pxhk9cazprhcgaj.streamlit.app/
